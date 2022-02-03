@@ -1,4 +1,4 @@
-import assert from assert;
+import assert from 'assert';
 import login from "../utils/login.mjs";
 
 it("Login API should return a valid login token", async ()=>{ 
